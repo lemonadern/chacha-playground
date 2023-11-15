@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include "ecrypt-sync.h"
+#include "chacha20/ecrypt-sync.h"
 
 void encryptFile(const char *inputFilename, const char *outputFilename, const char *key, const char *iv)
 {
