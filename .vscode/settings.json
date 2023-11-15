@@ -1,5 +1,6 @@
 {
   "files.associations": {
-    "ecrypt-sync.h": "c"
+    "ecrypt-sync.h": "c",
+    "chacha.h": "c"
   }
 }
